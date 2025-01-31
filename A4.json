@@ -1,0 +1,164 @@
+{
+    "IMG_20230923_103940.jpg1582008": {
+      "filename": "IMG_20230923_103940.jpg",
+      "size": 1582008,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1316,
+            "cy": 2039,
+            "r": 327
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 649,
+            "cy": 2451,
+            "r": 267
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1310,
+            "cy": 3150,
+            "r": 286
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "IMG_20230923_104021.jpg2871361": {
+      "filename": "IMG_20230923_104021.jpg",
+      "size": 2871361,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1329,
+            "cy": 2370,
+            "r": 274.003
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1734,
+            "cy": 3343,
+            "r": 274
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1890,
+            "cy": 2595,
+            "r": 207
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "IMG_20230923_104043.jpg3150459": {
+      "filename": "IMG_20230923_104043.jpg",
+      "size": 3150459,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1304,
+            "cy": 2470,
+            "r": 217
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "IMG_20230923_104131.jpg2269291": {
+      "filename": "IMG_20230923_104131.jpg",
+      "size": 2269291,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 1703,
+            "cy": 2077,
+            "r": 210
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2445,
+            "cy": 1204,
+            "r": 208
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 2632,
+            "cy": 3037,
+            "r": 234
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "IMG_20230923_104216.jpg3206705": {
+      "filename": "IMG_20230923_104216.jpg",
+      "size": 3206705,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 886,
+            "cy": 1559,
+            "r": 194
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "IMG_20230923_105158.jpg2565556": {
+      "filename": "IMG_20230923_105158.jpg",
+      "size": 2565556,
+      "regions": [],
+      "file_attributes": {}
+    }
+  }

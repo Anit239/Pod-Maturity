@@ -1,0 +1,386 @@
+{
+    "21.jpg32410": {
+      "filename": "21.jpg",
+      "size": 32410,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 62,
+            "cy": 57,
+            "rx": 60.21,
+            "ry": 38,
+            "theta": 0.419
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "22.jpg30785": {
+      "filename": "22.jpg",
+      "size": 30785,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 67,
+            "cy": 97,
+            "rx": 46,
+            "ry": 49,
+            "theta": 0
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 125,
+            "cy": 176,
+            "rx": 49,
+            "ry": 24,
+            "theta": 0
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "23.jpg29185": {
+      "filename": "23.jpg",
+      "size": 29185,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 113,
+            "cy": 126,
+            "rx": 54,
+            "ry": 74.518,
+            "theta": 2.442
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "24.jpg37387": {
+      "filename": "24.jpg",
+      "size": 37387,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 106,
+            "cy": 130,
+            "rx": 59.519,
+            "ry": 51.5,
+            "theta": -0.025
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "25.jpg36621": {
+      "filename": "25.jpg",
+      "size": 36621,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 117,
+            "cy": 147,
+            "rx": 99.5,
+            "ry": 52.88,
+            "theta": -0.229
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "26.jpg40427": {
+      "filename": "26.jpg",
+      "size": 40427,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 110,
+            "cy": 133,
+            "rx": 87,
+            "ry": 43.641,
+            "theta": -0.08
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "27.jpg42786": {
+      "filename": "27.jpg",
+      "size": 42786,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 76,
+            "cy": 108,
+            "rx": 44,
+            "ry": 64.595,
+            "theta": -3.087
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 149,
+            "cy": 187,
+            "rx": 38,
+            "ry": 50.21,
+            "theta": -2.342
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "29.jpg39241": {
+      "filename": "29.jpg",
+      "size": 39241,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 74,
+            "cy": 138,
+            "rx": 40.066,
+            "ry": 58.5,
+            "theta": -0.508
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 165,
+            "cy": 126,
+            "rx": 45,
+            "ry": 56.774,
+            "theta": 2.8
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "30.jpg35239": {
+      "filename": "30.jpg",
+      "size": 35239,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 115,
+            "cy": 103,
+            "rx": 59,
+            "ry": 86.869,
+            "theta": -1.02
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "31.jpg34769": {
+      "filename": "31.jpg",
+      "size": 34769,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 114,
+            "cy": 107,
+            "rx": 102.46,
+            "ry": 59,
+            "theta": 0.328
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "32.jpg38248": {
+      "filename": "32.jpg",
+      "size": 38248,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 184,
+            "cy": 135,
+            "rx": 43,
+            "ry": 82.28,
+            "theta": -0.283
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 59,
+            "cy": 140,
+            "rx": 52.01,
+            "ry": 72,
+            "theta": -0.019
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "33.jpg40770": {
+      "filename": "33.jpg",
+      "size": 40770,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 106,
+            "cy": 111,
+            "rx": 48.5,
+            "ry": 78,
+            "theta": 0.836
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "34.jpg35901": {
+      "filename": "34.jpg",
+      "size": 35901,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "35.jpg31883": {
+      "filename": "35.jpg",
+      "size": 31883,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 87,
+            "cy": 128,
+            "rx": 50.249,
+            "ry": 85,
+            "theta": -2.598
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "36.jpg34665": {
+      "filename": "36.jpg",
+      "size": 34665,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 163,
+            "cy": 54,
+            "rx": 29,
+            "ry": 61.002,
+            "theta": 0.652
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "37.jpg36612": {
+      "filename": "37.jpg",
+      "size": 36612,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 143,
+            "cy": 93,
+            "rx": 54,
+            "ry": 72,
+            "theta": 0
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "38.jpg35314": {
+      "filename": "38.jpg",
+      "size": 35314,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "39.jpg37966": {
+      "filename": "39.jpg",
+      "size": 37966,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "ellipse",
+            "cx": 173,
+            "cy": 111,
+            "rx": 41.5,
+            "ry": 64.531,
+            "theta": -3.111
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    }
+  }

@@ -1,0 +1,128 @@
+{
+    "21.jpg196975": {
+      "filename": "21.jpg",
+      "size": 196975,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 288,
+            "cy": 329,
+            "r": 195
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "30.jpg148199": {
+      "filename": "30.jpg",
+      "size": 148199,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 418,
+            "cy": 446,
+            "r": 251
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "31.jpg131164": {
+      "filename": "31.jpg",
+      "size": 131164,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 502,
+            "cy": 575,
+            "r": 232.863
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "32.jpg207832": {
+      "filename": "32.jpg",
+      "size": 207832,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 418,
+            "cy": 742,
+            "r": 268
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "35.jpg169713": {
+      "filename": "35.jpg",
+      "size": 169713,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 608,
+            "cy": 980,
+            "r": 408
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "37.jpg169672": {
+      "filename": "37.jpg",
+      "size": 169672,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 989,
+            "cy": 308,
+            "r": 200
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "38.jpg134239": {
+      "filename": "38.jpg",
+      "size": 134239,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "circle",
+            "cx": 463,
+            "cy": 622,
+            "r": 312
+          },
+          "region_attributes": {
+            "Matured": "Matured"
+          }
+        }
+      ],
+      "file_attributes": {}
+    }
+  }
