@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardamom Groove Emporium</title>
+    <link rel="shortcut icon" type="x-icon" href="image\cd1.jpg">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <style>
+        body {
+            background-color: white;
+        }
+        .sidebar {
+            background-color: #2a9134;
+            color: #2a9134;
+        }
+        .navbar {
+            background-color: #137547;
+        }
+        .nav-link {
+            color: rgb(13, 12, 12);
+        }
+        .nav-link:hover {
+            color: #484744;
+        }
+        .active {
+            background-color: white;
+        }
+        .navbar-brand {
+            color: rgba(50, 47, 47, 0.518);
+        }
+        main {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            padding-top: 20px;
+        }
+        .custom-button {
+            background-color:#40916c;
+            color: white;
+            border: 1px solid #40916c;
+            transition: background-color 0.3s;
+            height:40px;
+            border-radius:5px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="#"><i class="fas fa-dryer"></i> Cardamom Groove Emporium</a>
+    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block">
+                <div class="position-sticky">
+                    <ul class="nav flex-column"><br>
+                        <li class="nav-item">
+                            <a class="nav-link " href="index.php"><i class="fas fa-tachometer-alt"></i> Home </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="cust_editProfile.php"><i class="fas fa-user-edit"></i> Edit Profile </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="view_Orders.php"><i class="fas fa-plus"></i> view Orders </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <main class="col-md-7 ms-sm-auto col-sm-10 px-md-4" style="padding-top: 40px;">
+                <h1>Cardamom Maturity Prediction</h1>
+                <form method="POST" enctype="multipart/form-data" id="uploadForm">
+                    <div class="form-group">
+                        <input type="file" name="image" accept=".jpg, .jpeg, .png" id="fileInput">
+                    </div>
+                    <div>
+                        <input type="submit" value="Upload and Process" class="custom-button" id="submitButton" disabled>
+                        <button type="button" class="btn btn-danger" id="cancelButton">Cancel</button>
+                    </div>
+                </form>
+            </main>
+        
+            <!-- Include jQuery library -->
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script>
+                $(document).ready(function() {
+                    var fileInput = $("#fileInput");
+                    var submitButton = $("#submitButton");
+                    var cancelButton = $("#cancelButton");
+        
+                    fileInput.on("change", function() {
+                        if (fileInput[0].files.length > 0) {
+                            submitButton.prop("disabled", false);
+                            submitButton.removeClass("disabled");
+                        } else {
+                            submitButton.prop("disabled", true);
+                            submitButton.addClass("disabled");
+                        }
+                    });
+        
+                    cancelButton.on("click", function() {
+                        // Reset the file input field
+                        fileInput.val("");
+                        submitButton.prop("disabled", true);
+                        submitButton.addClass("disabled");
+                    });
+                });
+            </script>
+        </body>
+        </html>
